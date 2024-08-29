@@ -1,0 +1,25 @@
+{
+  "name": "bm-chatbot-admin-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blissmotorsllc/bm-chatbot-admin-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blissmotorsllc/bm-chatbot-admin-backend/issues"
+  },
+  "homepage": "https://github.com/blissmotorsllc/bm-chatbot-admin-backend#readme",
+  "devDependencies": {
+    "serverless-python-requirements": "^4.3.0",
+    "serverless-wsgi": "^1.7.3"
+  },
+  "dependencies": {},
+  "description": ""
+}
